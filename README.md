@@ -1,5 +1,5 @@
-# Memory Game - Find Matching Pairs Among Cards
-
+# Memory Game
+Find Matching Pairs Among Cards.
 This repository contains a simple implementation of the classic Memory Game, where the objective is to find matching pairs among hidden cards.
 
 ## Game Rules
