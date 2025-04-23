@@ -1,4 +1,5 @@
 import random
+import os
 
 # List of card pairs (using letters for simplicity)
 cards = ["A", "B", "C", "D", "E", "F", "G", "H"] * 2
