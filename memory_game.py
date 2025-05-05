@@ -1,4 +1,5 @@
 import random
+import operator
 import os
 
 # List of card pairs (using letters for simplicity)
