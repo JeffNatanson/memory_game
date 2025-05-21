@@ -1,6 +1,7 @@
 import random
 import operator
 import random
+import pandas as pd 
 
 # List of card pairs (using letters for simplicity)
 cards = ["A", "B", "C", "D", "E", "F", "G", "H"] * 2
