@@ -10,7 +10,7 @@ random.shuffle(cards)
 # Function to display the current state of the board()
 def display_board(board, revealed):
     print("\nMemory Game Board:")
-    for i in range(0, 16, 4):
+    for i in range(0, 16, 2):
         row = [board[j] if revealed[j] else "?" for j in range(i, i+4)]
         print(" ".join(row))
 
