@@ -4,7 +4,7 @@ import random
 import pandas as pd 
 
 # List of card pairs (using letters for simplicity)
-cards = ["A", "B", "C", "D", "E", "F", "G", "H"] * 2
+cards = ["A","A", "B", "C", "D", "E", "F", "G", "H"] * 2
 random.shuffle(cards)
 
 # Function to display the current state of the board()
